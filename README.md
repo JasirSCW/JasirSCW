@@ -12,3 +12,8 @@ Welcome to my GitHub! I'm Jasir, an enthusiastic IT professional in training wit
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JasirSCW/configure-ad)
  
+These hands-on projects reflect foundational IT concepts and real-world troubleshooting scenarios:
+
+osTicket (Help Desk Ticketing System): Deployed and configured a fully functional ticketing system to simulate real-world IT support workflows. Demonstrated understanding of installation requirements, backend configuration, and lifecycle of support tickets.
+
+Microsoft Azure – On-Premises Active Directory: Set up a virtual network within Azure to simulate an on-premises Active Directory environment. This project focused on user and group management, domain services, and integrating cloud-based infrastructure with traditional directory services.
